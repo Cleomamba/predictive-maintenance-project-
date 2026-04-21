@@ -1,6 +1,12 @@
 # predictive-maintenance-project-
 this project uses  machine learning predicts failure in laptops and desktops using xgboost, isolation forest, fast API, by analysing system metrics
 
+Demo Videos
+
+Watch how the system works:
+
+▶️ Full Demo:https://drive.google.com/file/d/1NZ0rlDRbO5cW8J35hOvzrC1itNOh6i5f/view?usp=drivesdk
+
 
 📥 Download Executable
 
